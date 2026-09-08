@@ -1,4 +1,4 @@
-name: Step 1 - Verify Application Push Trigger 1
+name: Step 1 - Verify Application Push Trigger 
 on:
   push:
     branches:
